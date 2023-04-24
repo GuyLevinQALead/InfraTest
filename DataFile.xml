@@ -1,0 +1,26 @@
+<?xml version = "1.0" encoding="utf-8" ?>
+<QAEnviroment>
+
+<url>https://keeptesting2-dev-ed.my.salesforce.com/</url>
+<username>guy.techseelevin@techsee.me </username>
+<password>zzZAQXSW321!!!!!!!</password>
+<urlAPI>https://reqres.in/api/users</urlAPI>
+
+
+<urlProd>https://keep4qa71-dev-ed.develop.my.salesforce.com/</urlProd>
+<usernameprod>guy.levin619upg@techsee.me</usernameprod>
+<passwordprod>zzZAQXSW321!!!!!</passwordprod>
+
+<RestUserName>guy.techseelevin@techsee.me</RestUserName>
+<RestPassword>zzZAQXSW321!!!!!!!</RestPassword>
+<ClientID>3MVG9DREgiBqN9Wley5bZP.kiI26GApmrA3NrmeIavRzzcIWZH582i3glYIu5EIRR05V1nitTaqBwaRPNTAdS</ClientID>
+<ClientSecret>E17F163D6B50C435ADCE691CC1B3CB748C259EEDE5CF6C4822CDB87902FC2A42</ClientSecret>
+
+<RestURL>https://login.salesforce.com/</RestURL>
+<GrantService>services/oauth2/token?grant_type=password</GrantService>
+<Rest_EndPoint>/services/data</Rest_EndPoint>
+<API_Version>v56.0</API_Version>
+
+
+</QAEnviroment>
+

@@ -1,0 +1,1 @@
+{"uuid":"2670dfca-40b6-43c8-8745-61450c5e4296","name":"Demo.FirstSuite","children":["c2263c4e-e477-4b30-927c-20805ca452b0"],"befores":[{"name":"ExecuteBeforeEveryClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1674036125158,"stop":1674036128941}],"afters":[],"links":[],"start":1674036125135,"stop":1674036144172}
